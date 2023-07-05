@@ -43,9 +43,7 @@
     font-size: 16px;
 }
 
-/* Header Section End */
 
-/* Banner Section Start */
 .banner {
     height: 100vh;
     display: flex;
@@ -83,6 +81,7 @@
     font-size: 20px;
 
 }
+
 
 .btn-text {
     width: 180px; 
