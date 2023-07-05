@@ -46,7 +46,53 @@
 /* Header Section End */
 
 /* Banner Section Start */
+.banner {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ffffff;
+    background-image: url(images/background.png), linear-gradient(45deg, #080808, #363636);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.banner-text {
+    padding: 20px;
+}
 
+.banner-title {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-desc {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.banner-img {
+    width: 300px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
+
+.btn-text {
+    width: 180px; 
+    padding: 10px 10px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 0.5px solid #747474;
+    text-align: center;
+
+}
 
 /* Banner Section End */
