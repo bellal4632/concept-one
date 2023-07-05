@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Header Section Start */
+
+.nav-section {
+    padding: 15px;
+    background-color: darkcyan;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.logo-photo {
+    width: 150px;
+}
+
+.menu {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.menu-item {
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 85px;
+    border: 2px solid white;
+    background-color: #006464;
+    border-radius: 20px;
+}
+
+.menu-item:hover {
+    color: #006464;
+    border: 2px solid #006464;
+    background-color: whitesmoke;
+    font-size: 16px;
+}
+
+/* Header Section End */
+
+/* Banner Section Start */
+
+
+
+/* Banner Section End */
